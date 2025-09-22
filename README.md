@@ -99,12 +99,6 @@ We implemented a **2-layer LSTM classifier**:
 - **Device:** GPU/CPU auto-detected  
 - **Metrics:** Accuracy, AUC, Classification Report  
 
-<div align="center">
-
-### 🔹 Training vs Validation Loss curve
-<img src="figures/5.png" alt="" width="65%"/>
-
-</div>
 
 <div align="center">
 
