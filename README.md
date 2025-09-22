@@ -1,5 +1,3 @@
-<img width="846" height="636" alt="0281c88d-4eb9-4e93-8821-3320e55b090f" src="https://github.com/user-attachments/assets/c8c9e0c2-948e-4642-984f-e2c2258a8f6f" /># 🧠 Decoding Hand Movements from ECoG Signals with LSTM  
-
 ## 📖 Abstract  
 In this project, we investigate the use of **Electrocorticography (ECoG) signals** ⚡ combined with **data glove sensor readings** 🧤 to decode and classify **hand movements** into four categories: Relax, Fist, Peace, and Open Hand.  
 We employ **signal preprocessing, exploratory data analysis (EDA), feature extraction, and deep learning (LSTM)** to build an end-to-end brain-computer interface (BCI) pipeline.  
