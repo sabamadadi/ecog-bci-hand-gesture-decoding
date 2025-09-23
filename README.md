@@ -1,3 +1,5 @@
+# ECoG-based Hand Gesture Decoding using BCI
+---
 ## 📖 Abstract  
 In this project, we investigate the use of **Electrocorticography (ECoG) signals** ⚡ combined with **data glove sensor readings** 🧤 to decode and classify **hand movements** into four categories: Relax, Fist, Peace, and Open Hand.  
 We employ **signal preprocessing, exploratory data analysis (EDA), feature extraction, and deep learning (LSTM)** to build an end-to-end brain-computer interface (BCI) pipeline.  
